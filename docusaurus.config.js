@@ -58,7 +58,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/Paisaje.jpg',
+      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '',
         logo: {
@@ -145,9 +145,4 @@ const config = {
     ],
 };
 
-module.exports = {
- url: 'https://ronal19.github.io',
- baseUrl: 'Caso-01', 
- organizationName: 'ronal19',
- projectName: 'Caso-01',
-};
+module.exports = config;
