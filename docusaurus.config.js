@@ -145,4 +145,9 @@ const config = {
     ],
 };
 
-module.exports = config;
+module.exports = {
+ url: 'https://ronal19.github.io',
+ baseUrl: 'Caso-01', 
+ organizationName: 'ronal19',
+ projectName: 'Caso-01',
+};
